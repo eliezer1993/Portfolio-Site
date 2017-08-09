@@ -41,14 +41,19 @@ header {
 
 h1 {
 	color: #2d3c49;
+	text-transform: uppercase;
 }
 
 h2 {
 	color: #2d3c49;
+	text-transform: uppercase;
+
 }
 
 h3 {
 	color: #7d97ad;
+	text-transform: uppercase;
+
 }
 
 a {
