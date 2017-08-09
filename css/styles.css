@@ -1,0 +1,57 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+.namehead {
+	float: right;
+	height:100%;
+}
+.udalogo {
+	width: 5em;
+	height: 5em;
+}
+header {
+	width:100%;
+	border-bottom:3px solid #7d97ad;
+    padding-bottom:3px;
+    display:inline-block;
+}
+#mainimg {
+	background-image:url("img/leidenwinter2017.jpg");
+	 background-size: cover;
+}
+
+#mainbody {
+	display:flex;
+	flex-wrap: wrap;
+}
+
+.project {
+	height:200px;
+	width:200px;
+	display:inline;
+}
+
+.projimg {
+	width:100%;
+}
+
+.projhead {
+	width:100%;
+}
+
+h1 {
+	color: #2d3c49;
+}
+
+h2 {
+	color: #2d3c49;
+}
+
+h3 {
+	color: #7d97ad;
+}
+
+a {
+	width:100%;
+}
+#
