@@ -1,23 +1,27 @@
 body {
 	font-family: 'Roboto', sans-serif;
 }
+
 .namehead {
 	float: right;
 	height:100%;
 }
+
 .udalogo {
 	width: 5em;
 	height: 5em;
 }
+
 header {
 	width:100%;
 	border-bottom:3px solid #7d97ad;
     padding-bottom:3px;
     display:inline-block;
 }
+
 #mainimg {
 	background-image:url("img/leidenwinter2017.jpg");
-	 background-size: cover;
+	background-size: cover;
 }
 
 #mainbody {
@@ -26,7 +30,6 @@ header {
 }
 
 .project {
-	height:200px;
 	width:200px;
 }
 
@@ -59,3 +62,4 @@ a {
 	width:100%;
 }
 #
+
