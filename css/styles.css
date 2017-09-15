@@ -20,7 +20,7 @@ header {
 }
 
 #mainimg {
-	background-image:url("img/leidenwinter2017.jpg");
+	background-image:url("../img/leidenwinter2017.jpg");
 	background-size: cover;
 }
 
@@ -31,6 +31,7 @@ header {
 
 .project {
 	width:200px;
+	word-break: break-word;
 }
 
 .projimg {
@@ -61,5 +62,5 @@ h3 {
 a {
 	width:100%;
 }
-#
+
 
